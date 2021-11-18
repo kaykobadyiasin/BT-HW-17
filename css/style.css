@@ -1,0 +1,26 @@
+.c_prev {
+	left: 75%;
+}
+.c_prev, .c_next {
+	top: 85%;
+}
+.carousel-indicators {
+	right: 60%;
+	bottom: 75%;
+}
+.carousel-indicators [data-bs-target] {
+	
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+}
+.li_coustom{
+
+	list-style: none;
+}
+.left_coustom{
+	left: -30%;
+}
+.slide_text{
+	margin-bottom: 10rem;
+}
